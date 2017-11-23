@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Thu Sep 28 15:06:40 2017
+# Process ID: 6732
+# Current directory: P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.runs/impl_1
+# Command line: vivado.exe -log hex_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hex_display.tcl -notrace
+# Log file: P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.runs/impl_1/hex_display.vdi
+# Journal file: P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source hex_display.tcl -notrace

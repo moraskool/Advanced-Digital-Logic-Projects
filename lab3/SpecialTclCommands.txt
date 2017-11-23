@@ -1,0 +1,2 @@
+set_property BITSTREAM.General.UnconstrainedPins {Allow} [current_design]
+write_bitstream <path_and_file_name>.bit

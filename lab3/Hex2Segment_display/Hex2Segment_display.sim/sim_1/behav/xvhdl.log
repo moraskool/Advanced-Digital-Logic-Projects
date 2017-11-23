@@ -1,0 +1,21 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sources_1/imports/lab3/FullAdder_4Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FullAdder_4Bit
+INFO: [VRFC 10-163] Analyzing VHDL file "P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sources_1/imports/lab3/hex_display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity hex_display
+INFO: [VRFC 10-163] Analyzing VHDL file "P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sources_1/new/Lab3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab3
+INFO: [VRFC 10-163] Analyzing VHDL file "P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab3_tb
+ERROR: [VRFC 10-1412] syntax error near ; [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:174]
+ERROR: [VRFC 10-1412] syntax error near 50 [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:178]
+ERROR: [VRFC 10-1471] type error near ns ; current type time; expected type  void [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:178]
+ERROR: [VRFC 10-1412] syntax error near loop [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:182]
+ERROR: [VRFC 10-1412] syntax error near Behavioral [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:188]
+ERROR: [VRFC 10-1472] type error near behavioral ; expected type  void [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd:188]
+INFO: [VRFC 10-240] VHDL file P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/new/Lab3_tb.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/lab3/FullAdder_4Bit_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FullAdder_4Bit_tb
+ERROR: [VRFC 10-1412] syntax error near ; [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/lab3/FullAdder_4Bit_tb.vhd:138]
+ERROR: [VRFC 10-1412] syntax error near process [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/lab3/FullAdder_4Bit_tb.vhd:144]
+ERROR: [VRFC 10-1472] type error near behavior ; expected type  void [P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/lab3/FullAdder_4Bit_tb.vhd:148]
+INFO: [VRFC 10-240] VHDL file P:/Private/desktop/CMPEN 371/lab3/Hex2Segment_display/Hex2Segment_display.srcs/sim_1/imports/lab3/FullAdder_4Bit_tb.vhd ignored due to errors
